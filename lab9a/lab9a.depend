@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1540422662 source:/home/wade/Documents/C++/lab9a/Lab9A-DynamicArrays-Algorithms.cpp
+	<iostream>
+	<fstream>
+	<vector>
+	<iomanip>
+

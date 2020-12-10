@@ -1,0 +1,29 @@
+# depslib dependency file v1.0
+1478709440 source:/home/wade/Documents/C++/lab11b/Rectangle.cpp
+	"Rectangle.h"
+
+1478706940 /home/wade/Documents/C++/lab11b/Rectangle.h
+	<iostream>
+
+1541636673 source:/home/wade/Documents/C++/lab11b/Lab11B-Arrays-of-Objects.cpp
+	<cstdlib>
+	<iostream>
+	<fstream>
+	<iomanip>
+	"Square.h"
+	"Rectangle.h"
+	"Student.h"
+
+1541633553 /home/wade/Documents/C++/lab11b/Square.h
+	<iostream>
+
+1478710020 /home/wade/Documents/C++/lab11b/Student.h
+	<iostream>
+	<fstream>
+
+1541635285 source:/home/wade/Documents/C++/lab11b/Student.cpp
+	"Student.h"
+
+1541633553 source:/home/wade/Documents/C++/lab11b/Square.cpp
+	"Square.h"
+

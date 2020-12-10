@@ -1,0 +1,72 @@
+8
+Doe
+John 
+johndoe@gmail.com
+678 Lucky Street
+Boone
+NC
+28607
+8289999999
+
+Brody
+Sienna 
+soccerlover@gmail.com
+334 Futura Dr.
+Salem
+OR
+99336
+6305554433
+
+Garza
+Abigail
+agarza@buzz.net
+111 Dryden Lane
+Trenton
+NJ
+22334
+5072253030
+
+Prieta
+Myla
+mylaspeaks@tada.com
+1234 Renoir Rd, #110
+Los Angeles
+CA
+90265
+5073590025
+
+Lockyear
+Brett
+graybull23@gmail.com
+12 Sullivan Ct
+Los Angeles
+CA
+90265
+6304005012
+
+Wyeth
+Anders
+tenfour@gmail.com
+2 Upper Prada Circle
+Billings
+MN
+30405
+5075601213
+
+Jackson
+Shirley
+sjackson@yazda.com
+4N 256 Fifth Av
+Addison
+IL
+60101
+8126194090
+
+Calhoun
+Colby
+ccal56@buzz.net
+11016 Tujunga Canyon Blvd
+Los Angeles
+CA
+90265
+2903196480

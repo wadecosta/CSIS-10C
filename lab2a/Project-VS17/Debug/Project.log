@@ -1,0 +1,4 @@
+﻿  Source.cpp
+Source.obj : warning LNK4075: ignoring '/EDITANDCONTINUE' due to '/SAFESEH' specification
+  Project.vcxproj -> C:\Users\SETI-9\Desktop\csis10c\lab2a\Project-VS17\Debug\Project.exe
+  Project.vcxproj -> C:\Users\SETI-9\Desktop\csis10c\lab2a\Project-VS17\Debug\Project.pdb (Full PDB)

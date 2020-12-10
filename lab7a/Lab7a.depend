@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1538601870 source:/home/wade/Documents/C++/lab7a/Lab7a_AdvancedFunctions.cpp
+	<iostream>
+	<string>
+	<cmath>
+

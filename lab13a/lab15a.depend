@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1543083603 source:/home/wade/Documents/C++/lab13a/ex15_1.cpp
+	<iostream>
+	<cstddef>
+	<string>
+

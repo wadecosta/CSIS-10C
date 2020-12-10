@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1537829166 source:/home/wade/Documents/C++/lab6a/main.cpp
+	<iostream>
+
+1537832862 source:/home/wade/Documents/C++/lab6a/Lab6A-Loops.cpp
+	<iostream>
+	<iomanip>
+	<cmath>
+

@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1540185052 source:/home/wade/Documents/C++/lab8b/Lab8B-Vectors-Pointers.cpp
+	<iostream>
+	<fstream>
+	<iomanip>
+	<string>
+	<vector>
+

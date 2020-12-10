@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1543282649 source:/home/wade/Documents/C++/lab14a/main.cpp
+	<iostream>
+	<list>
+	<vector>
+	<stack>
+	<queue>
+

@@ -1,0 +1,32 @@
+# depslib dependency file v1.0
+1543454693 source:/home/wade/Documents/C++/lab14b/lab14b_main.cpp
+	<iostream>
+	"Person.h"
+	"Tyrant.h"
+	"Employee.h"
+	"Manager.h"
+
+1543452037 /home/wade/Documents/C++/lab14b/Person.h
+	<string>
+	<cstdlib>
+	<iostream>
+
+1543451917 /home/wade/Documents/C++/lab14b/Tyrant.h
+	<string>
+	<cstdlib>
+	<iostream>
+	"Person.h"
+
+1543455190 /home/wade/Documents/C++/lab14b/Employee.h
+	<string>
+	<cstdlib>
+	<iostream>
+	"Person.h"
+
+1543526216 /home/wade/Documents/C++/lab14b/Manager.h
+	<string>
+	<cstdlib>
+	<iostream>
+	"Person.h"
+	"Employee.h"
+

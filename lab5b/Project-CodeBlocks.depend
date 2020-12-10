@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1537396815 source:/home/wade/Documents/C++/lab5b/CStringDemo.cpp
+	<cstring>
+	<iostream>
+

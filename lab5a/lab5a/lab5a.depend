@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1537227416 source:/home/wade/Documents/C++/lab5a/Lab5A-Strings-Files.cpp
+	<iostream>
+	<fstream>
+	<cmath>
+	<iomanip>
+

@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1544487014 source:/home/wade/Documents/C++/lab12b/lab12b.cpp
+	<iostream>
+	<string>
+

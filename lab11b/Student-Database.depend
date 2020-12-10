@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1541639750 source:/home/wade/Documents/C++/lab11b/Student.cpp
+	"Student.h"
+
+1541640538 /home/wade/Documents/C++/lab11b/Student.h
+	<iostream>
+	<fstream>
+
+1541641523 source:/home/wade/Documents/C++/lab11b/StudentDatabase.cpp
+	<iostream>
+	<fstream>
+	<cstdlib>
+	"Student.h"
+

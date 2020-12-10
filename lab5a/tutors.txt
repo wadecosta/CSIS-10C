@@ -1,0 +1,3 @@
+Sal Stern   20     3
+Ric Ren     15     6
+Tri Tan     25    10
